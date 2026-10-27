@@ -1,16 +1,3 @@
-# Agent Trace Instructions
-
-Please submit the complete agent trace for the work you did on this challenge as a **ZIP file**. A trace helps us understand the prompts, model responses, tool calls, and work performed during the session and improve our evaluation from the next time.
-
-Include every session you used for this challenge, including sessions in which you planned, coded, debugged, or reviewed the solution. If you used more than one agent harness, include traces from each one. Keep the original files and folder structure where practical; do not convert JSONL, SQLite, or other structured logs into screenshots or summaries.
-
-## Before you start
-
-1. Finish the session(s) you intend to submit, then quit the app or CLI before copying its files. This helps ensure logs are written completely.
-2. Create a temporary folder named `agent-trace` somewhere easy to find, such as your Desktop. Copy only the relevant trace files into it. Keep each tool in its own subfolder, for example `agent-trace/claude-code/` and `agent-trace/codex/`.
-3. Include the session files for this challenge, not your entire home directory or application-data folder.
-4. Review the staged files before sharing. Traces can contain source code, local file paths, prompts, tool arguments and output, screenshots, and other private information. Remove or redact secrets (API keys, tokens, passwords, cookies, private keys), personal information, and material you are not allowed to share. Do not include authentication files, settings, or credentials.
-5. Zip the `agent-trace` folder using your operating system’s built-in archive tool. Name the result `agent-trace.zip`.
 
 ## Claude Code
 
